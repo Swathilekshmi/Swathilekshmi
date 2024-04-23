@@ -1,8 +1,4 @@
 
-# Swathilekshmi S 
-
-### About Me![swathi imge](https://github.com/Swathilekshmi/Swathilekshmi/assets/76176075/f99474b1-6e77-4a9f-9d31-838065d42291)
-
  
 >I'm Swathilekshmi, an enthusiastic computer science student who aspires to launch an  engineering career by actively engaging in hands-on projects that allow me to apply my expertise in computer science and information technology. I am enthusiastic about opportunities to learn,develop my skills, and contribute to new and emerging tech solutions that have a positive impact.
 When I'm not coding, I  find myself engaged with activities like , reading, sports, driving,and exploring new technologies. I'm always curious to learn new things, and that curiosity led me to have a multilingual language base. I'm fluent in English and Malayalam(which is my mother tongue ). I can also speak and understand Tamil and Hindi. I'm familiar with Telugu and very basic German.Feel free to connect with me on LinkedIn or check out my GitHub profile to explore more about my journey and projects.Looking forward to exciting opportunities ahead!  
